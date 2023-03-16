@@ -15,5 +15,6 @@ AdvancedImageHiding is a Java-based program for steganography, the practice of c
 - 9) Enter in a name for the output file (you have to put .png at the end regardless if the original files were .png or not).
 - 10) Enjoy your image!
 
-## NOTE: The host image and the secret image HAVE to have the SAME DIMENSIONS!!
-Otherwise this will fail.
+## NOTE: 
+- The host image and the secret image should have the SAME DIMENSIONS.
+- Otherwise, the output may be unintelligible or corrupted.
