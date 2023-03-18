@@ -4,7 +4,7 @@ You can then use the ImageSubtraction function to visualize the changes between 
 
 > To learn what steganography is, check out this video: https://www.youtube.com/watch?v=TWEXCYQKyDc
 
-## To compile Advanced-Image-Hiding:
+## To compile AdvancedImageHiding:
 - 1) Make sure you have the Java SDK downloaded and installed (You can get it at: https://www.oracle.com/java/technologies/downloads/)
 - 2) Clone this repo with: ```git clone https://github.com/peterzlomek/Advanced-Image-Hiding```
 - 3) Open the folder in your terminal and compile the program with the command: ```javac AdvancedImageHiding.java```
