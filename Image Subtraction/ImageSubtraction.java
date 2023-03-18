@@ -6,10 +6,6 @@ import java.util.Scanner;
 public class ImageSubtraction {
     public static void main(String[] args) {
         try {
-            // Load the two images to be subtracted
-            // BufferedImage image1 = ImageIO.read(new File("image1.jpg"));
-            // BufferedImage image2 = ImageIO.read(new File("image2.jpg"));
-
             // Query User for Image names to be subtracted
             Scanner myObj = new Scanner(System.in);
             System.out.println("*Step 1: Give me the path to your first image (with file extension): *");
